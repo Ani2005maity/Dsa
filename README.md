@@ -4,7 +4,6 @@
 ## Stack
 |  |
 | ------- |
-| [0084-largest-rectangle-in-histogram](https://github.com/Ani2005maity/Dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Ani2005maity/Dsa/tree/master/0155-min-stack) |
 ## Design
 |  |
