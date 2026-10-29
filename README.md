@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Ani2005maity/Dsa/tree/master/0050-powx-n) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ani2005maity/Dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
@@ -46,6 +47,10 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ani2005maity/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Ani2005maity/Dsa/tree/master/0050-powx-n) |
 <!---LeetCode Topics End--> Start-->
 # LeetCode Topics
 ## Stack
