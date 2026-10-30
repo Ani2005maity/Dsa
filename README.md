@@ -14,6 +14,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ani2005maity/Dsa/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Ani2005maity/Dsa/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Ani2005maity/Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ani2005maity/Dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Ani2005maity/Dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Ani2005maity/Dsa/tree/master/0136-single-number) |
@@ -37,10 +38,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ani2005maity/Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ani2005maity/Dsa/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Ani2005maity/Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ani2005maity/Dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Ani2005maity/Dsa/tree/master/0169-majority-element) |
 ## Bit Manipulation
@@ -69,6 +72,14 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ani2005maity/Dsa/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ani2005maity/Dsa/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ani2005maity/Dsa/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End--> Start-->
 # LeetCode Topics
 ## Stack
