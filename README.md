@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ani2005maity/Dsa/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Ani2005maity/Dsa/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Ani2005maity/Dsa/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Ani2005maity/Dsa/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Ani2005maity/Dsa/tree/master/0075-sort-colors) |
@@ -39,6 +40,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ani2005maity/Dsa/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Ani2005maity/Dsa/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Ani2005maity/Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ani2005maity/Dsa/tree/master/0088-merge-sorted-array) |
@@ -83,6 +85,10 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Ani2005maity/Dsa/tree/master/0075-sort-colors) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Ani2005maity/Dsa/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End--> Start-->
 # LeetCode Topics
 ## Stack
