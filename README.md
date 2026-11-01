@@ -16,6 +16,7 @@
 | [0011-container-with-most-water](https://github.com/Ani2005maity/Dsa/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/Ani2005maity/Dsa/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Ani2005maity/Dsa/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/Ani2005maity/Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ani2005maity/Dsa/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Ani2005maity/Dsa/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Ani2005maity/Dsa/tree/master/0088-merge-sorted-array) |
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ani2005maity/Dsa/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Ani2005maity/Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Ani2005maity/Dsa/tree/master/0169-majority-element) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ani2005maity/Dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
@@ -37,6 +39,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ani2005maity/Dsa/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ani2005maity/Dsa/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ani2005maity/Dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
